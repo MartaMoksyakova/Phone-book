@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 4,
+      "name": "marta",
+      "surname": "masyak",
+      "phone": "0631507132"
+    },
+    {
+      "id": 5,
+      "name": "Petro",
+      "surname": "Petriv",
+      "phone": "067687685"
+    },
+    {
+      "id": 6,
+      "name": "Oleg",
+      "surname": "Petriv",
+      "phone": "0965685757"
+    },
+    {
+      "id": 7,
+      "name": "mark",
+      "surname": "markovich",
+      "phone": "767860867708"
+    }
+  ]
+}
